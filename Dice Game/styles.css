@@ -1,0 +1,64 @@
+.container
+{
+  text-align: center;
+  margin:auto;
+  width:70%;
+}
+.refresh-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  color: #EEEEEE;
+  background-color: #4ECCA3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.refresh-button:hover {
+  background-color: #3C9E89;
+}
+
+.dice
+{
+text-align: center;
+display: inline-block;
+}
+
+body
+{
+background-color: #393E46;
+}
+
+h1
+{
+  font-family: 'cambria',cursive;
+  font-size: 4rem;
+  color:#4ECCA3;
+}
+
+p
+{
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Cambria', cursive;
+}
+
+img
+{
+  width: 80%;
+}
+
+footer{
+  color: #EEEEEE;
+  text-align: center;
+  font-family: cambria,cursive;
+  margin-top: auto;
+
+}
+
+#footer{
+	font-size: 40px;
+	
+}
