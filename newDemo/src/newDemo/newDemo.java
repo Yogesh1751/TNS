@@ -1,0 +1,7 @@
+package newDemo;
+
+public class newDemo {
+	public static void main (String[]args) {
+	System.out.println("Child interrupted.");
+	}
+}
